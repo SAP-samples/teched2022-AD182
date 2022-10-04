@@ -1,37 +1,48 @@
-# Session ID - Session Title
+# AD182 - Build Process Automations and Extensions to SAP Solutions
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called [AD182 - Build Process Automations and Extensions to SAP Solutions](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198036950001EHbd).
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees how to use SAP Process Automation capabilities to build and manage workflow, decision, RPA bot and visibility with low-code/no-code application development workbench. Experience the ease and speed of single comprehensive, no-code tool combining the capabilities of workflow management and robotic process automation (RPA). 
+
+In this workshop, you will: 
+- create process using new process builder
+- create and configure approval forms using new form builder with drag-and-drop approach 
+- create automation to extract data from Microsoft excel sheet
+- create decision or business rules to determine approvers 
+- build process visibility dashboard to monitor business process in real-time
+- release and deploy business process 
+- start the business process using Launchpad 
+- access MyInbox application to approve the tasks
+- use process visibility dashboard to monitor the process
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are a Free Trial or Free Tier account in SAP Business Technology Platform and subscription to SAP Process Automation, as described here in the [Setup Guide](https://developers.sap.com/tutorials/spa-subscribe-booster.html).
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Start the exercises: 
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Setup your environment](https://developers.sap.com/tutorials/spa-subscribe-booster.html) **[IMPORTANT]**
 
-  
-**OR** Link to the Tutorial Navigator for example...
+- [Exercise 1 : Build Your First Business Process with SAP Process Automation](https://developers.sap.com/mission.sap-process-automation.html)
+    - [Exercise 1.1 - Create Business Process](https://developers.sap.com/tutorials/spa-create-process.html)
+    - [Exercise 1.2 - Create and Configure Forms](https://developers.sap.com/tutorials/spa-create-forms.html)
+    - [Exercise 1.3 - Create Process Conditions](https://developers.sap.com/tutorials/spa-create-process-condition.html)
+    - [Exercise 1.4 - Enable Launchpad Subscription](https://developers.sap.com/tutorials/spa-create-process-condition.html)    
+    - [Exercise 1.5 - Configure Launchpad](https://developers.sap.com/tutorials/spa-run-business-process-launchpad.html)        
+    - [Exercise 1.5 - Release, Deploy and Run Business Process](https://developers.sap.com/tutorials/spa-run-process.html)
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Exercise 2 - Enhance Business Process with Automation, Decision and Process Visibility](https://developers.sap.com/mission.sap-process-automation-boost.html)
+    - [Exercise 2.1 - Create Automation](https://developers.sap.com/tutorials/spa-create-automation.html)
+    - [Exercise 2.2 - Create and Configure Decision](https://developers.sap.com/tutorials/spa-create-decision.html)
+    - [Exercise 2.3 - Add Process Visibility Scenario](https://developers.sap.com/tutorials/spa-create-decision.html)
+    - [Exercise 2.4 - Create and Configure Decision](https://developers.sap.com/tutorials/spa-create-decision.html)
+    - [Exercise 2.5 - Release, Deploy and Run Business Process](https://developers.sap.com/tutorials/spa-run-process-automation-decision.html)
 
 ## How to obtain support
 
