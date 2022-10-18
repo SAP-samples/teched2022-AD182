@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2022 session called [AD
 
 ## Overview
 
-This session introduces attendees how to use SAP Process Automation capabilities to build and manage workflow, decision, RPA bot and visibility with low-code/no-code application development workbench. Experience the ease and speed of single comprehensive, no-code tool combining the capabilities of workflow management and robotic process automation (RPA). 
+This session introduces attendees how to use SAP Build Process Automation capabilities to build and manage workflow, decision, RPA bot and visibility with low-code/no-code application development workbench. Experience the ease and speed of single comprehensive, no-code tool combining the capabilities of workflow management and robotic process automation (RPA). 
 
 In this workshop, you will: 
 - create process using new process builder
@@ -21,7 +21,7 @@ In this workshop, you will:
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are a Free Trial or Free Tier account in SAP Business Technology Platform and subscription to SAP Process Automation, as described here in the [Setup Guide](https://developers.sap.com/tutorials/spa-subscribe-booster.html).
+The requirements to follow the exercises in this repository are a Free Trial or Free Tier account in SAP Business Technology Platform and subscription to SAP Build Process Automation, as described here in the [Setup Guide](https://developers.sap.com/tutorials/spa-subscribe-booster.html).
 
 ## Exercises
 
@@ -29,7 +29,7 @@ Start the exercises:
 
 - [Setup your environment](https://developers.sap.com/tutorials/spa-subscribe-booster.html) **[IMPORTANT]**
 
-- Exercise 1 : Build Your First Business Process with SAP Process Automation [(direct link)](https://developers.sap.com/mission.sap-process-automation.html)
+- Exercise 1 : Build Your First Business Process with SAP Build Process Automation [(direct link)](https://developers.sap.com/mission.sap-process-automation.html)
     - [Exercise 1.1 - Create Business Process](https://developers.sap.com/tutorials/spa-create-process.html)
     - [Exercise 1.2 - Create and Configure Forms](https://developers.sap.com/tutorials/spa-create-forms.html)
     - [Exercise 1.3 - Create Process Conditions](https://developers.sap.com/tutorials/spa-create-process-condition.html)
