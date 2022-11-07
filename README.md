@@ -27,10 +27,10 @@ The requirements to follow the exercises in this repository are a Free Trial or 
 
 Start the exercises:
 
-- [Setup your environment](./1_SetupEnvironment/README.md) **[IMPORTANT]**
+- [Setup your environment](exercises/1_SetupEnvironment/README.md) **[IMPORTANT]**
 
 - Exercise 1 : Build Your First Business Process with SAP Build Process Automation
-    - [Exercise 1.1 - Create Business Process](./2_CreateBusinessProcess/README.md)
+    - [Exercise 1.1 - Create Business Process](exercises/2_CreateBusinessProcess/README.md)
     - [Exercise 1.2 - Create and Configure Forms](https://developers.sap.com/tutorials/spa-create-forms.html)
     - [Exercise 1.3 - Create Process Conditions](https://developers.sap.com/tutorials/spa-create-process-condition.html)
     - [Exercise 1.4 - Release, Deploy and Run Business Process](https://developers.sap.com/tutorials/spa-run-process.html)
