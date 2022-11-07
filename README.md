@@ -6,16 +6,16 @@ This repository contains the material for the SAP TechEd 2022 session called [AD
 
 ## Overview
 
-This session introduces attendees how to use SAP Build Process Automation capabilities to build and manage workflow, decision, RPA bot and visibility with low-code/no-code application development workbench. Experience the ease and speed of single comprehensive, no-code tool combining the capabilities of workflow management and robotic process automation (RPA). 
+This session introduces attendees how to use SAP Build Process Automation capabilities to build and manage workflow, decision, RPA bot and visibility with low-code/no-code application development workbench. Experience the ease and speed of single comprehensive, no-code tool combining the capabilities of workflow management and robotic process automation (RPA).
 
-In this workshop, you will: 
+In this workshop, you will:
 - create process using new process builder
-- create and configure approval forms using new form builder with drag-and-drop approach 
+- create and configure approval forms using new form builder with drag-and-drop approach
 - create automation to extract data from Microsoft excel sheet
-- create decision or business rules to determine approvers 
+- create decision or business rules to determine approvers
 - build process visibility dashboard to monitor business process in real-time
-- release and deploy business process 
-- start the business process using Launchpad 
+- release and deploy business process
+- start the business process using Launchpad
 - access MyInbox application to approve the tasks
 - use process visibility dashboard to monitor the process
 
@@ -25,12 +25,12 @@ The requirements to follow the exercises in this repository are a Free Trial or 
 
 ## Exercises
 
-Start the exercises: 
+Start the exercises:
 
-- [Setup your environment](https://developers.sap.com/tutorials/spa-subscribe-booster.html) **[IMPORTANT]**
+- [Setup your environment](./1_SetupEnvironment/README.md) **[IMPORTANT]**
 
-- Exercise 1 : Build Your First Business Process with SAP Build Process Automation [(direct link)](https://developers.sap.com/mission.sap-process-automation.html)
-    - [Exercise 1.1 - Create Business Process](https://developers.sap.com/tutorials/spa-create-process.html)
+- Exercise 1 : Build Your First Business Process with SAP Build Process Automation
+    - [Exercise 1.1 - Create Business Process](./2_CreateBusinessProcess/README.md)
     - [Exercise 1.2 - Create and Configure Forms](https://developers.sap.com/tutorials/spa-create-forms.html)
     - [Exercise 1.3 - Create Process Conditions](https://developers.sap.com/tutorials/spa-create-process-condition.html)
     - [Exercise 1.4 - Release, Deploy and Run Business Process](https://developers.sap.com/tutorials/spa-run-process.html)
@@ -41,7 +41,7 @@ Start the exercises:
     - [Exercise 2.3 - Add Process Visibility Scenario](https://developers.sap.com/tutorials/spa-create-decision.html)
     - [Exercise 2.4 - Create and Configure Decision](https://developers.sap.com/tutorials/spa-create-decision.html)
     - [Exercise 2.5 - Release, Deploy and Run Business Process](https://developers.sap.com/tutorials/spa-run-process-automation-decision.html)
-    
+
  - Exercise 3 - Start Business Process From Launchpad
      - [Exercise 3.1 - Configure Launchpad](https://developers.sap.com/tutorials/spa-create-process-condition.html)    
      - [Exercise 3.2 - Start Business Process From Launchpad](https://developers.sap.com/tutorials/spa-run-business-process-launchpad.html)     
