@@ -21,19 +21,22 @@ In this workshop, you will:
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are a Free Trial or Free Tier account in SAP Business Technology Platform and subscription to SAP Build Process Automation, as described here in the [Setup Guide](https://developers.sap.com/tutorials/spa-subscribe-booster.html).
+**[IMPORTANT]**
+
+The requirements to follow the exercises in this repository are a **Free Trial** or **Free Tier** account in SAP Business Technology Platform and subscription to SAP Build Process Automation. You can choose from the given guides, based on your choice of SAP BTP free account:
+  -  [Setup Guide for Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html).
+  -  [Setup Guide for Free Trial](exercises/1_SetupEnvironment/README.md).
 
 ## Exercises
 
 Start the exercises:
-
-- [Setup your environment](exercises/1_SetupEnvironment/README.md) **[IMPORTANT]**
 
 - Exercise 1 : Build Your First Business Process with SAP Build Process Automation
     - [Exercise 1.1 - Create Business Process](exercises/2_CreateBusinessProcess/README.md)
     - [Exercise 1.2 - Create and Configure Forms](https://developers.sap.com/tutorials/spa-create-forms.html)
     - [Exercise 1.3 - Create Process Conditions](https://developers.sap.com/tutorials/spa-create-process-condition.html)
     - [Exercise 1.4 - Release, Deploy and Run Business Process](https://developers.sap.com/tutorials/spa-run-process.html)
+
 
 - Exercise 2 - Enhance Business Process with Automation, Decision and Process Visibility [(direct link)](https://developers.sap.com/mission.sap-process-automation-boost.html)
     - [Exercise 2.1 - Create Automation](https://developers.sap.com/tutorials/spa-create-automation.html)
@@ -42,9 +45,6 @@ Start the exercises:
     - [Exercise 2.4 - Create and Configure Decision](https://developers.sap.com/tutorials/spa-create-decision.html)
     - [Exercise 2.5 - Release, Deploy and Run Business Process](https://developers.sap.com/tutorials/spa-run-process-automation-decision.html)
 
- - Exercise 3 - Start Business Process From Launchpad
-     - [Exercise 3.1 - Configure Launchpad](https://developers.sap.com/tutorials/spa-create-process-condition.html)    
-     - [Exercise 3.2 - Start Business Process From Launchpad](https://developers.sap.com/tutorials/spa-run-business-process-launchpad.html)     
 
 ## How to obtain support
 
