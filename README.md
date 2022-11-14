@@ -37,8 +37,7 @@ Start the exercises:
     - [Exercise 1.3 - Create Process Conditions](https://developers.sap.com/tutorials/spa-create-process-condition.html)
     - [Exercise 1.4 - Release, Deploy and Run Business Process](https://developers.sap.com/tutorials/spa-run-process.html)
 
-
-- Exercise 2 - Enhance Business Process with Automation, Decision and Process Visibility [(direct link)](https://developers.sap.com/mission.sap-process-automation-boost.html)
+- Exercise 2 - Enhance Business Process with Automation, Decision and Process Visibility
     - [Exercise 2.1 - Create Automation](https://developers.sap.com/tutorials/spa-create-automation.html)
     - [Exercise 2.2 - Create and Configure Decision](https://developers.sap.com/tutorials/spa-create-decision.html)
     - [Exercise 2.3 - Add Process Visibility Scenario](https://developers.sap.com/tutorials/spa-create-decision.html)

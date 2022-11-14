@@ -26,10 +26,10 @@ There are many use cases where you can make a difference using SAP Process Autom
 
 3. In the **Create Business Process Project** dialog box, enter the following values to respective fields:
 
-  | Field    | Value|
-  | :------------- | :------------- |
-  | Project Name      | Sales Orders Management      |
-  | Short Description | Project to automate sales order approval |
+    | Field    | Value|
+    | :------------- | :------------- |
+    | Project Name      | Sales Orders Management      |
+    | Short Description | Project to automate sales order approval |
 
     ![Fill Project information ](images/CreateProcess_03.png)
 
@@ -63,4 +63,4 @@ There are many use cases where you can make a difference using SAP Process Autom
 
 Now, that you have created the business process, it time to design the process with different activities like forms, decisions, automation etc.
 
-Continue to - [Exercise 1.2 - Create and Configure Forms](https://developers.sap.com/tutorials/spa-create-forms.html
+Continue to - [Exercise 1.2 - Create and Configure Forms](https://developers.sap.com/tutorials/spa-create-forms.html)
