@@ -1,22 +1,22 @@
 ## Table of Contents
  - [Overview](#overview)
  - [Get a Free Account on SAP BTP](#AccountBTP)
- - [Subscribe to SAP Process Automation](#SPA)
+ - [Subscribe to SAP Build Process Automation](#SPA)
  - [Assign Roles](#Roles)
  - [Summary](#summary)
 
 ### Overview <a name="overview"></a>
 
 In this exercise, you will learn:
-- How to subscribe to  SAP Process Automation in SAP Trial account
+- How to subscribe to  SAP Build Process Automation in SAP Trial account
 
 ## Create an Account on SAP BTP <a name="AccountBTP"></a>
 
 - ONLY CREATE ACCOUNT IN **US East (VA) - AWS** trial region
-Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) tutorial.
+- Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) tutorial.
 
 
-## Subscribe to SAP Process Automation  <a name="SPA"></a>
+## Subscribe to SAP Build Process Automation  <a name="SPA"></a>
 
 1.	Select **Service Marketplace**. In the Search field type **SAP Process Automation** and select the tile.
 
@@ -68,6 +68,6 @@ Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutori
 
 ## Summary  <a name="summary"></a>
 
-You have successfully subscribed to SAP Process Automation.
+You have successfully subscribed to SAP Build Process Automation.
 
 Continue to - [Exercise 1.1 - Create Business Process](../1_CreateBusinessProcess/README.md)
