@@ -72,4 +72,4 @@ In this exercise, you will learn:
 
 You have successfully subscribed to SAP Build Process Automation.
 
-Continue to - [Exercise 1.1 - Create Business Process](../1_CreateBusinessProcess/README.md)
+Continue to - [Exercise 1.1 - Create Business Process](../2_CreateBusinessProcess/README.md)
