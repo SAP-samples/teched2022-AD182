@@ -1,3 +1,5 @@
+## Setup Free Trial Account 
+
 ## Table of Contents
  - [Overview](#overview)
  - [Get a Free Account on SAP BTP](#AccountBTP)
@@ -5,7 +7,7 @@
  - [Assign Roles](#Roles)
  - [Summary](#summary)
 
-### Overview <a name="overview"></a>
+## Overview <a name="overview"></a>
 
 In this exercise, you will learn:
 - How to subscribe to  SAP Build Process Automation in SAP Trial account
