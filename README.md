@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-AD182)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-AD182)
+
 # AD182 - Build Process Automations and Extensions to SAP Solutions
 
 ## Description
